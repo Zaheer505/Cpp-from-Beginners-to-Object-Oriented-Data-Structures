@@ -19,8 +19,7 @@ int c[16] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
 
 int main()
 {
-       cout << "\n\n*****Welcome to Monal****\n\n" ;
-       int t;
+       cout << "\n\n*****Welcome to Monal****\n\n" ; 
        getdata(); //Calling of a function to get load the data
        showdata();//calling of a function to display data
        selectItems(); //calling of a function select the items from the menu
