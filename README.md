@@ -1,18 +1,24 @@
-# C++ Begginers Course Repository
- 
-## About this repository
-This repository is for the course HERE , video and in depth explainations about the projects are provided  in this course . 
+# C++ Begginers to Advanced Course Repository
+ This course is going to take your from Beginners to Advance Level Concepts in C++ which can be utilized in many fieldwhere effeciency is required .
+ This repository is for the course [HERE](www.udemy.com) , video and in depth explainations about the projects are provided  in the course.
 
-Projects:
-1 - Restaurant System
-2 - Cinema Ticketing System
-3 - One more needed to be added 
+ ### Topics Covered :
+  - Basic (Varibles / Loops / Functions)
+  - Object Oriented ( Classes / Pointers / Header Files)
+  - Data Structures ()
+  - Multi-Threading ()
+  
+## Projects
+1 - Cinema Ticketing System ( Section 1: Basics Concepts )
+2 - Restaurant Ordering Systems ( Section 2: Object Oriented Concepts )
+3 - School System ( Section 3: Data Structures Concepts ) 
+4 - ( Section 4: Multi Threading Concepts )
 
 
 
 ## Instructors
-- [ Zaheer Ahmed](https://www.linkedin.com/in/zaheer-ahmed-908a20210/)
-- [ Muhammad Luqman](https://www.linkedin.com/in/muhammad-luqman-9b227a11b/)
+- **Zaheer Ahmed** [Contact Profile](www.linkedin.com/in/zaheer-ahmed-908a20210/)
+- **Muhammad Luqman**[Contact Profile](https://www.linkedin.com/in/muhammad-luqman-9b227a11b/)
 
 
    
