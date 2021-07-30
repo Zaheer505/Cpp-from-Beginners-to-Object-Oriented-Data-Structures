@@ -9,16 +9,16 @@
   - Multi-Threading ()
   
 ## Projects
-1 - Cinema Ticketing System ( Section 1: Basics Concepts )
-2 - Restaurant Ordering Systems ( Section 2: Object Oriented Concepts )
-3 - School System ( Section 3: Data Structures Concepts ) 
-4 - ( Section 4: Multi Threading Concepts )
+- 1 Cinema Ticketing System ( Section 1: Basics Concepts )
+- 2 Restaurant Ordering Systems ( Section 2: Object Oriented Concepts )
+- 3 School System ( Section 3: Data Structures Concepts ) 
+- 4 ( Section 4: Multi Threading Concepts )
 
 
 
 ## Instructors
 - **Zaheer Ahmed** [Contact Profile](www.linkedin.com/in/zaheer-ahmed-908a20210/)
-- **Muhammad Luqman**[Contact Profile](https://www.linkedin.com/in/muhammad-luqman-9b227a11b/)
+- **Muhammad Luqman** [Contact Profile](https://www.linkedin.com/in/muhammad-luqman-9b227a11b/)
 
 
    

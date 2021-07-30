@@ -9,7 +9,7 @@
    Written by Muhammad Luqman
     MIT License
 */
-
+// add pointers and refferences https://www.youtube.com/watch?v=sxHng1iufQE&ab_channel=PaulProgramming
 
 /*
 //Explaination:
