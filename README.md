@@ -1,18 +1,29 @@
-# C++ Begginers to Advanced Course Repository
- This course is going to take your from Beginners to Advance Level Concepts in C++ which can be utilized in many fieldwhere effeciency is required .
- This repository is for the course [HERE](www.udemy.com) , video and in depth explainations about the projects are provided  in the course.
+# C++ from Beginners to Object Oriented Data Structures
+ This course is going to take your from Beginners to Advance Level Concepts in C++ which can be utilized into many Career oppertunities where effeciency is required .
+ In the Course video lectures  and in depth explainations about the projects are provided. You can view the free prevew course as well . Notes for all the lectures are provided in **Notes Folder**
+ 
+ Link to the Course -->> [HERE](https://www.udemy.com/course/c-from-beginners-to-advanced/?couponCode=GITHUB) 
+ 
+![alt text](https://github.com/Zaheer505/C-Workspace/blob/master/Images/course%20Thumbnail.png)
 
- ### Topics Covered :
+
+### Topics Covered :
   - Basic (Varibles / Loops / Functions)
-  - Object Oriented ( Classes / Pointers / Header Files)
-  - Data Structures ()
-  - Multi-Threading ()
+  - Object Oriented Programming( Structures / Constructers / Classes / Header Files)
+  - Data Structures (Pointers / Linked List / Double Linked List / Trees)
+  - Multi-Threading (Not yet Released)
+
+
+#### **Process of Explaination**
+##### All Concepts are explained with Notes
+![alt text](https://github.com/Zaheer505/C-Workspace/blob/master/Images/notes.png)
+##### Code is then Written and made changes On the Go
+![alt text](https://github.com/Zaheer505/C-Workspace/blob/master/Images/programming.png)
   
 ## Projects
-- 1 Cinema Ticketing System ( Section 1: Basics Concepts )
+- 1 Cinema Ticketing System     ( Section 1: Basics Concepts )
 - 2 Restaurant Ordering Systems ( Section 2: Object Oriented Concepts )
-- 3 School System ( Section 3: Data Structures Concepts ) 
-- 4 ( Section 4: Multi Threading Concepts )
+- 3 School Management System    ( Section 3: Data Structures Concepts ) 
 
 
 
@@ -24,6 +35,3 @@
    
 ## License
 - Code presented here are Free to use Persoanlly/Commericially/Teaching/Referencing **BUT** without any warranty
-
-
-
